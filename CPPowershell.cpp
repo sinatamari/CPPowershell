@@ -1,3 +1,5 @@
+// Author: Sina Tamari
+
 #include<iostream>
 #include<Windows.h>
 typedef int(__stdcall *shle)(HWND h, LPCSTR lp, LPCSTR lpF, LPCSTR lpP, LPCSTR lpD, INT n);
